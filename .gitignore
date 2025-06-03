@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.log
+.cache/
+node_modules/
+.vscode/
+.idea/
+*.swp
+.termux/
